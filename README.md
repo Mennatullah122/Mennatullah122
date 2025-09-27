@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/ika-musume-type-computer-hacking-gif-11543441)"  />
 </div>
 
 ###
@@ -27,9 +27,9 @@
 ###
 
 <p align="left">
-  I'm an AI Engineering Student <br>
+  - I'm an AI Engineering Student <br>
   - Passionate about AI, Data Science, and the integration of AI in Quantum Computing and Science <br>
-  - ⚡ Besides, I'm passionate about 3D design, reading, and photographing
+  - Besides, I'm passionate about 3D design, reading, and photographing⚡
 </p>
 
 ###
