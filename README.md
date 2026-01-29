@@ -28,7 +28,7 @@
 
 <p align="left">
   - I'm an AI Engineering Student <br>
-  - Passionate about AI, Data Science, and the integration of AI in Quantum Computing and Science <br>
+  - Passionate about AI, Data Science, and the integration of AI in our life <br>
   - Besides, I'm passionate about 3D design, reading, and photographing⚡
 </p>
 
